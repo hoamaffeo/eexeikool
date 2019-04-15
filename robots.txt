@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://acaedaita.keywordcourse.com/sitemap.xml
